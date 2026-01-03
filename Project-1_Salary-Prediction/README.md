@@ -2,7 +2,6 @@
 
 ## Project Overview
 This project implements **Simple Linear Regression** to predict employee salaries based on years of experience.  
-The goal is to understand the relationship between experience and salary and to practice building and evaluating regression models.
 
 ## Dataset
 - The dataset contains two columns:
