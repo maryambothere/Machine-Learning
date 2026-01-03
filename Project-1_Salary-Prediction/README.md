@@ -8,7 +8,7 @@ The goal is to understand the relationship between experience and salary and to 
 - The dataset contains two columns:
   - `YearsExperience` – Number of years an employee has worked
   - `Salary` – Employee salary in USD
-- Source: **[mention dataset source if any]**
+- Source: **Kaggle**
 
 ## Steps
 1. **Data Exploration:** Visualizing data to understand trends and relationships.
